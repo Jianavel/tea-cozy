@@ -1,7 +1,7 @@
 body {
   background-color: black;
   text-align: center;
-  font-family: verdana;
+  font-family: verdana, sans-serif, geneva;
 }
 h1.discoverhidden {
   font-weight: normal;
@@ -22,7 +22,9 @@ h3 {
   font-size: 21px;
   color: grey;
 }
-h4 {
+.excursion {
   text-align: right;
-  color: grey;
+}
+.phone-image {
+
 }
